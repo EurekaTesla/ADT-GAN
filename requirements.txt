@@ -1,0 +1,7 @@
+tensorflow==1.8.0
+keras
+torch
+numpy
+matplotlib
+opencv-python
+tqdm
