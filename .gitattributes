@@ -1,2 +1,0 @@
-*.h5 filter=lfs diff=lfs merge=lfs -text
-2.Initialized-DCGAN filter=lfs diff=lfs merge=lfs -text
