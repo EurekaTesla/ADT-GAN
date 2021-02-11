@@ -1,9 +1,7 @@
-# DCGAN_CelebA
+# Pre-DCGAN_CelebA
 
 
 ## Preparation and configuation
-
-# Assume that you have collect images and put them to any directory as mentioned in the README.md of the root directory
 
 You may change the number of iteration  **Iteration** in **config.py**.
 You may also set one or more absolute passes.
