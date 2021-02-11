@@ -1,6 +1,5 @@
 # Pre-DCGAN_CelebA
 
-
 ## Preparation and configuation
 
 You may change the number of iteration  **Iteration** in **config.py**.
