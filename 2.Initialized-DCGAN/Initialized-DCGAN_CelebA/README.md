@@ -2,7 +2,8 @@
 
 Before that, you need to pre-train on dataset CelebA-F with DCGAN(0.Pre-DCGAN/DCGAN_CelebA), and Copy models G1 and D1 to **Initialized-DCGAN_CelebA/models**. 
 
-We have saved the pre-trained models G1 and D1 that you can use directly.
+We have saved the pre-trained models G1 and D1 that you can use directly. Downloading Pre-trained_models: https://github.com/EurekaTesla/ADT-GAN
+Copying **G1** and **D1** in **ADT-GAN/2.Initialized-DCGAN/Initialized-DCGAN_CelebA/models**
 
 
 ## Preparation and configuation
