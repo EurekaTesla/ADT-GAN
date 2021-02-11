@@ -1,16 +1,11 @@
 # ADT-GAN_CelebA
 
-First of all, you need to pre-train DCGAN on dataset CelebA-F, and Copy models G1 and D1 to **models**. 
+Before that, you need to pre-train on dataset CelebA-F with DCGAN(0.Pre-DCGAN/DCGAN_CelebA), and Copy models G1 and D1 to **Initialized-DCGAN_CelebA/models**. 
 
-We have saved the pre-trained models G1 and D1 that you can use directly, which can be downloaded from:
-   https://github.com/EurekaTesla/ADT-GAN
-
-Simply copy **G1** and **D1** in **Pre-trained_models/Pre-trained_models_CelebA** to **ADT-GAN/3.ADT-GAN/ADT-GAN_CelebA/models**.
+We have saved the pre-trained models G1 and D1 that you can use directly.
 
 
 ## Preparation and configuation
-
-# Assume that you have ccollect images and put them to any directory as mentioned in the README.md of the root directory
 
 You may change the number of iteration  **Iteration** in **config.py**.
 You may also set one or more absolute passes.
