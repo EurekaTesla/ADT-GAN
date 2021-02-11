@@ -1,5 +1,5 @@
 ##
-# ADT-GAN program, the source code for paper "ADT-GAN: Adversarial and Discriminative Learning for Transferring Generative Adversarial" submittef for aaai21.
+# ADT-GAN program, the source code for our submitted paper "ADT-GAN: Adversarial and Discriminative Learning for Transferring Generative Adversarial".
 ##
 
 ## Requirements
