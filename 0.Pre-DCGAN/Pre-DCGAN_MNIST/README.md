@@ -1,4 +1,4 @@
-# DCGAN_MNIST
+# Pre-DCGAN_MNIST
 
 ## Preparation and configuation
 
