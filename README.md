@@ -11,7 +11,7 @@
 	opencv-python
 	tqdm
 
-# Install the needed packages for running ADT-GAN program
+## Install the needed packages for running ADT-GAN program
 ```bash
 When using CPU:
     $ pip install -r requirements.txt
