@@ -1,8 +1,8 @@
 # ADT-GAN_MNIST
 
-Before that, you need to pre-train on dataset CelebA-F with DCGAN(0.Pre-DCGAN/DCGAN_CelebA), and Copy models G1 and D1 to **Initialized-DCGAN_CelebA/models**. 
+Before that, you need to pre-train on dataset MNIST-not9 with DCGAN(0.Pre-DCGAN/DCGAN_MNIST), and Copy models **G1.h5** and **D1.h5** to **ADT-GAN_MNIST/models**. 
 
-We have saved the pre-trained models G1 and D1 that you can use directly.
+We have saved the pre-trained models that you can use directly. Downloading Pre-trained_models **G1.h5** and **D1.h5** in **ADT-GAN/3.ADT-GAN/ADT-GAN_MNIST/models**.
 
 
 ## Preparation and configuation
